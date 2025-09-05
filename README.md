@@ -41,7 +41,7 @@ Required tools to run the program are :</br>
 </p>
 </br>
 
-- Read in file with validated data into pandas dataframe \: <br/>
+- Read in file with validated data into pandas dataframe (DF) \: <br/>
 <p style="border: 2px solid #000000; padding: 1px;">
 <table><tr><td>
 <img src="https://github.com/user-attachments/assets/de502314-5a3d-4654-bd28-6c04faf4de9f" width="80%" height="50%" alt="collects 3 sets of data from the console" />
